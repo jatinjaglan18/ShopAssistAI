@@ -55,9 +55,7 @@ Given a dataset containing laptop details (name, specifications, description, et
 
 Watch the 60-second video below to see the complete recommendation process from user input to final output.
 
-<div align="center">
-  <video src="static\Demo_Video.mp4" width="700" controls="controls"></video>
-</div>
+https://github.com/user-attachments/assets/6663eacf-0a8a-411f-9553-d0e48fc009d4
 
 ---
 
